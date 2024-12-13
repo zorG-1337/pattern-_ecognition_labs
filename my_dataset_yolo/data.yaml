@@ -1,0 +1,6 @@
+names: ['dog']
+nc: 1
+path: C:/shapes_recognition/YOLOV8_SELF_STUDY/my_dataset_yolo
+train: C:/shapes_recognition/YOLOV8_SELF_STUDY/my_dataset_yolo/images/train
+val: C:/shapes_recognition/YOLOV8_SELF_STUDY/my_dataset_yolo/images/val
+test: C:/shapes_recognition/YOLOV8_SELF_STUDY/my_dataset_yolo/images/val
